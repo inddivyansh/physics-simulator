@@ -78,4 +78,4 @@ Physics_Simulator/
 
 Your physics simulator is now fully prepared for deployment to Streamlit Community Cloud. Follow the steps in `DEPLOYMENT_GUIDE.md` to get your app live on the web!
 
-**Expected final URL**: `https://your-app-name.streamlit.app`
+**Expected final URL**: `https://psimulator-g.streamlit.app`
